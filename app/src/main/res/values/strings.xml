@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="name">Тест на 10 вопросов</string>
+    <string name="check_name">Отправить результат</string>
+
+    <string name="question1">1. Когда отменили крепостное право?</string>
+    <string-array name="question1_answers">
+        <item>1896</item>
+        <item>1901</item>
+        <item>1861</item> <!--правильно-->
+        <item>1862</item>
+    </string-array>
+
+    <string name="question2">2. Год крещения Руси?</string>
+    <string-array name="question2_answers">
+        <item>896</item>
+        <item>901</item>
+        <item>998</item> <!--правильно-->
+        <item>862</item>
+    </string-array>
+
+    <string name="question3">3. Кто правил раньше?</string>
+    <string-array name="question3_answers">
+        <item>Азамат I</item>
+        <item>Елизавета II</item>
+        <item>Елизавета I</item> <!--правильно-->
+        <item>Петр I</item>
+    </string-array>
+
+    <string name="question4">4. Когда сбросил атомную бомбу на Хиросиму? </string>
+    <string-array name="question4_answers">
+        <item>1941</item>
+        <item>1939</item>
+        <item>6 августа 1945</item> <!--правильно-->
+        <item>1234</item>
+    </string-array>
+
+    <string name="question5">5. Год создания атомной бомбы в СССР? </string>
+    <string-array name="question5_answers">
+        <item>1965</item>
+        <item>1932</item>
+        <item>1949</item> <!--правильно-->
+        <item>1862</item>
+    </string-array>
+
+    <string name="question6">6. Год распада СССР? </string>
+    <string-array name="question6_answers">
+        <item>1924</item>
+        <item>1922</item>
+        <item>1991</item> <!--правильно-->
+        <item>2000</item>
+    </string-array>
+
+    <string name="question7">7. Почему Гитлер застрелился? </string>
+    <string-array name="question7_answers">
+        <item>Аллах так сказал</item>
+        <item>Аллах такого не говорил</item>
+        <item>Неизвестно</item> <!--правильно-->
+        <item>По приказу Сталина</item>
+    </string-array>
+
+    <string name="question8">8. Кто составил «Словарь выпивохи»?</string>
+    <string-array name="question8_answers">
+        <item>Барака Обэмка</item>
+        <item>Владимир Владимирович Путин</item>
+        <item>Бенджамен Франклин</item> <!--правильно-->
+        <item>Байден</item>
+    </string-array>
+
+    <string name="question9">9. Что произошло 9(22) 1905? </string>
+    <string-array name="question9_answers">
+        <item>День рождения Азамата</item>
+        <item>Священное воскресенье</item>
+        <item>Кровавое воскресенье</item> <!--правильно-->
+        <item>Перерождение Аллаха</item>
+    </string-array>
+
+    <string name="question10">10. По какой причине Билл Гейтс ушел из Microsoft?</string>
+    <string-array name="question10_answers">
+        <item>Хотел поработить мир</item>
+        <item>Создал коронавирус</item>
+        <item>Хотел больше свободного времени и помочь детям</item> <!--правильно-->
+        <item>Он устал</item>
+    </string-array>
+
+</resources>
